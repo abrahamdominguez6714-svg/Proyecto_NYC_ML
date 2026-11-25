@@ -1,0 +1,21 @@
+[project]
+name = "nyc311-p24h"
+version = "0.1.0"
+description = "Predicción de si una solicitud de NYC 311 se cierra en menos de 24 h, con validación temporal"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.26",
+    "pandas>=2.2",
+    "scikit-learn>=1.6.1",
+    "requests>=2.31",
+    "matplotlib>=3.8",
+    "tabulate>=0.9",
+]
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
