@@ -1,7 +1,7 @@
 # ¿Se cerrará en menos de 24 horas? Predicción para solicitudes NYC 311
 
 **Actividad:** ejercicio modular del tema 05 · Introducción a la IA y ML (CUGDL)
-**Integrantes:** Abraham Dominguez Valdez, Angel, Cristo y Adrian _(TODO equipo: nombres completos)_
+**Integrantes:** Abraham Dominguez Valdez, Angel Said Vazquez Cisneros, Cristopher Altamirano Hernandez y Adrian Carrera Ahumada 
 
 > Convenciones de este archivo: lo marcado como **TODO equipo** es texto que depende de los resultados
 > reales o de decisiones del equipo. Las tablas numéricas salen de `reports/tablas.md`, que genera
